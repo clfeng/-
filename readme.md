@@ -5,3 +5,8 @@
 
 以下是从整理的思维导图中导出的一个最完整的图片，有点点大;
 之后会再按类别拆分成小的图片，也会将思维导图中的知识点文字导出来。（最近还在跑秋招，时间比较紧，所以还请期待）
+
+
+![FE-knowledge-system.png](http://upload-images.jianshu.io/upload_images/5834936-7a71aa8db7e1e16d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
